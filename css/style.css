@@ -1,0 +1,14 @@
+.net{
+    border-radius:100px;
+    border-color: aqua; 
+    background-color: deepskyblue;
+}
+.thi{border-radius:100px; 
+    border-color: cyan; 
+    background-color: lawngreen;
+}
+#btn{border-radius:100px; 
+    border-color: cyan;
+     background-color: greenyellow; 
+     color: rgb(7, 16, 189);
+}
